@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,my name is Eunice Olabisi Adegbola</h1>
-<h3 align="center">A result oriented and passionate data analyst</h3>
+<h3 align="center">An entry level data analyst</h3>
 
 - 📫 How to reach me **euniceolabisi55@gmail.com**
 
